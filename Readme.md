@@ -32,16 +32,17 @@ Make sure you have the following installed on your machine:
 
    
    git clone https://github.com/samarth-rjoshi/Vaia_Assugnment.git
+   
    cd Vaia_Assugnment
    
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 
    
    pip install -r requirements.txt
    
 
-3. Set up your Hugging Face API token:
+4. Set up your Hugging Face API token:
 
    Replace `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` in `main.py` with your own Hugging Face API token.
 
